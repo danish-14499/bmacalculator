@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+#bmisection{
+    border: 5px solid rgb(203, 192, 192);
+}
+input{
+    margin: 10px;
+    padding: 2px;
+}
+button{
+    background-color: rgb(23, 80, 154);
+}
